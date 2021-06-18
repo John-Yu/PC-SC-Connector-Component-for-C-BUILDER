@@ -1,6 +1,8 @@
 # PC-SC-Connector-Component-for-C-BUILDER
 PC/SC Connector Component for C++ BUILDER,Helps you access a smartcard reader through Microsofts SmartCard API.
+
 based on Norbert Huettisch's PCSCConnector.pas   (nobbi(at)nobbi.com)
+
 rewrited it with C++ BUILDER 2010
 
 The component has the following properties, methods and events:
